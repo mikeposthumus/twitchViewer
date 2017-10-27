@@ -1,0 +1,58 @@
+html body {
+  background-color: #372650;
+  color: white;
+}
+
+a {
+  color: #69F4BD;
+}
+
+a:hover {
+  color: #69F4BD;
+
+}
+
+#container {
+  margin: 10% auto auto auto;
+  width: 600px;
+}
+
+#title {
+    border: 8px solid #FFFFFF;
+    margin: 10px 0px;
+    padding: 20px;
+}
+
+h1 {
+  font-weight: bolder;
+}
+
+.stream {
+  border: 8px solid white;
+  margin: 10px 0px;
+  padding: 20px;
+  font-size: 20px;
+
+}
+
+.notStreaming {
+  opacity: 0.9;
+}
+
+.btn {
+  background-color: #372650;
+  color:white;
+  border: 8px solid white;
+  padding: 10px;
+  margin: 10px 0px;
+  font-size: 20px;
+  font-weight: bold;
+  width: 295px;
+  border-radius: 0px;
+
+}
+
+.selected {
+  background-color: white;
+  color: #372650;
+}
