@@ -1,6 +1,6 @@
 
 
-var users = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas"];
+var users = ["heatchecker", "jeffhoogland", "chipper77", "freecodecamp", "holyshamgar", "yellowhat"];
 var twitchAPI = 'https://api.twitch.tv/helix/streams?user_login='
 function status() {
     users.forEach(function (user){
